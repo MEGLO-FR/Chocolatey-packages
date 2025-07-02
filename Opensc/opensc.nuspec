@@ -9,7 +9,7 @@
     <bugTrackerUrl>https://github.com/OpenSC/OpenSC/issues</bugTrackerUrl>
     <licenseUrl>https://github.com/OpenSC/OpenSC/blob/master/COPYING</licenseUrl>
     <docsUrl>https://github.com/OpenSC/OpenSC/wiki</docsUrl>
-    <packageSourceUrl>https://github.com/DDoSolitary/chocolatey-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/MEGLO-FR/Chocolatey-package</packageSourceUrl>
     <summary>Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend</summary>
     <description>OpenSC provides a set of libraries and utilities to work with smart cards. Its main focus is on cards that support cryptographic operations, and facilitate their use in security applications such as authentication, mail encryption and digital signatures. OpenSC implements the standard APIs to smart cards, e.g. PKCS#11 API, Windows’ Smart Card Minidriver and macOS Tokend.</description>
     <releaseNotes>https://github.com/OpenSC/OpenSC/releases</releaseNotes>
